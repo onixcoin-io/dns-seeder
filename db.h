@@ -12,7 +12,7 @@
 
 #define MIN_RETRY 1000
 
-#define REQUIRE_VERSION 200300
+#define REQUIRE_VERSION 20100
 
 static inline int GetRequireHeight(const bool testnet = fTestNet)
 {
