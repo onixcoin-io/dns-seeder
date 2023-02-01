@@ -91,7 +91,7 @@ Another solution is allowing a binary to bind to ports < 1024 with setcap (IPv6 
 CREDITS
 -------
 
-This software is a fork of [https://github.com/sipa/bitcoin-seeder](Bitcoin Seeder) by Pieter Wuille.
+This software is a fork of [Bitcoin Seeder](https://github.com/sipa/bitcoin-seeder) by Pieter Wuille.
 
 Customization instructions taken from 
 [How to create a DNS seeder for your new alt-coin](https://motion-software.com/blog/how-to-create-a-dns-seeder-for-your-new-alt-coin/) 
